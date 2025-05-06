@@ -7,7 +7,7 @@ The Weather App is a simple and intuitive application that provides real-time we
 
 ## Demo
 
-Live :[ #weatherdebjit.netlify.app](https://weatherdebjit.netlify.app)
+Live : [ weatherdebjit.netlify.app](https://weatherdebjit.netlify.app)
 
 🚀 Features
 
